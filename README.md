@@ -1,5 +1,7 @@
 # 📊 Financial Performance Dashboard (Tableau Project)
 
+[Click here to view the Financial Performance Ppt](https://www.canva.com/design/DAGrp3bZyvo/L5b3MnzCKDcTf17pUKmIcw/view?utm_content=DAGrp3bZyvo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h426bcb3010)
+
 ## ✅ Project Description
 This project is a **Financial Performance Dashboard** developed using **Tableau**.
 The goal of this project is to analyze financial data to understand the company's **Sales, Profit, COGS, and Discounts** across different countries and products. The dashboard provides valuable insights for decision-making and performance improvement.
